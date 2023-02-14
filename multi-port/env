@@ -1,5 +1,5 @@
-SUDO_USERNAME = "admin"
-SUDO_PASSWORD = "admin"
+SUDO_USERNAME = "alef"
+SUDO_PASSWORD = "alef"
 
 # XRAY_HOSTS = "
 # Fast-VPN Domain@example.com
